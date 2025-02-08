@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Prove that there are infinitely many prime numbers.",
+      "options": [
+        "Using Euclid's proof by contradiction: Assume there are finitely many primes p1, p2, ..., pn. Let P = p1 * p2 * ... * pn + 1. P is not divisible by any of the primes p1, p2, ..., pn, so P must either be prime or divisible by a prime not in the list, which contradicts the assumption that we had all primes.",
+        "Assume there are finitely many primes and show that each prime divides another prime.",
+        "By considering the prime factorization of a large number, it is clear that there are only finitely many primes.",
+        "Using the Fundamental Theorem of Arithmetic to prove that there must be infinitely many primes."
+      ],
+      "answer": "Using Euclid's proof by contradiction: Assume there are finitely many primes p1, p2, ..., pn. Let P = p1 * p2 * ... * pn + 1. P is not divisible by any of the primes p1, p2, ..., pn, so P must either be prime or divisible by a prime not in the list, which contradicts the assumption that we had all primes.",
+      "category": "Number Theory"
+    },
+    {
+      "question": "Find the value of the integral: ∫ (e^x * sin(x)) dx.",
+      "options": [
+        "(e^x * (sin(x) - cos(x))) / 2 + C",
+        "(e^x * (sin(x) + cos(x))) / 2 + C",
+        "e^x * cos(x) + C",
+        "(e^x * sin(x)) / 2 + C"
+      ],
+      "answer": "(e^x * (sin(x) - cos(x))) / 2 + C",
+      "category": "Calculus"
+    },
+    {
+      "question": "Solve the differential equation: y'' + 2y' + y = e^(-x).",
+      "options": [
+        "y = C1 * e^(-x) + C2 * x * e^(-x) + (1/2) * e^(-x)",
+        "y = C1 * e^(-x) + C2 * e^(x) + (1/2) * e^(-x)",
+        "y = C1 * e^(x) + C2 * e^(-x) + x * e^(-x)",
+        "y = C1 * e^(-x) + C2 * x + (1/2) * e^(-x)"
+      ],
+      "answer": "y = C1 * e^(-x) + C2 * x * e^(-x) + (1/2) * e^(-x)",
+      "category": "Differential Equations"
+    },
+    {
+      "question": "Evaluate the sum of the series: Σ (from n=1 to ∞) 1/(n^2 + 1).",
+      "options": [
+        "π/√2",
+        "π",
+        "√2",
+        "π/2"
+      ],
+      "answer": "π/√2",
+      "category": "Series"
+    },
+    {
+      "question": "Find the eigenvalues of the matrix: [[2, 1], [1, 2]].",
+      "options": [
+        "The eigenvalues are 3 and 1.",
+        "The eigenvalues are 2 and 4.",
+        "The eigenvalues are 1 and 2.",
+        "The eigenvalues are -1 and -2."
+      ],
+      "answer": "The eigenvalues are 3 and 1.",
+      "category": "Linear Algebra"
+    },
+    {
+      "question": "Find the Fourier transform of the function f(x) = e^(-x^2).",
+      "options": [
+        "The Fourier transform of f(x) = e^(-x^2) is F(k) = √π * e^(-k^2 / 4).",
+        "The Fourier transform of f(x) = e^(-x^2) is F(k) = e^(-k^2).",
+        "The Fourier transform of f(x) = e^(-x^2) is F(k) = √π * e^(k^2 / 4).",
+        "The Fourier transform of f(x) = e^(-x^2) is F(k) = e^(k^2 / 4)."
+      ],
+      "answer": "The Fourier transform of f(x) = e^(-x^2) is F(k) = √π * e^(-k^2 / 4).",
+      "category": "Fourier Analysis"
+    },
+    {
+      "question": "Solve the equation: x^5 + 2x^3 + x^2 = 0.",
+      "options": [
+        "x = 0, x = ±i, x = ±√2",
+        "x = 0, x = ±2, x = ±1",
+        "x = ±1, x = ±2, x = 0",
+        "x = 0, x = 1, x = -1"
+      ],
+      "answer": "x = 0, x = ±i, x = ±√2",
+      "category": "Algebra"
+    },
+    {
+      "question": "Find the volume of the solid bounded by the paraboloid z = 1 - x^2 - y^2 and the xy-plane.",
+      "options": [
+        "The volume is π/2.",
+        "The volume is π.",
+        "The volume is 1.",
+        "The volume is π/4."
+      ],
+      "answer": "The volume is π/2.",
+      "category": "Multivariable Calculus"
+    },
+    {
+      "question": "Prove that the square root of 2 is irrational.",
+      "options": [
+        "Using proof by contradiction: Assume √2 is rational, then it can be written as a/b, where a and b are coprime integers. Squaring both sides gives 2 = a^2 / b^2, or a^2 = 2b^2, implying a^2 is even, so a is even. Thus, a = 2k for some integer k. Substituting a = 2k into the equation gives b^2 = 2k^2, implying b is also even. This contradicts the assumption that a and b are coprime.",
+        "Assume √2 is rational and show that both a and b are odd.",
+        "Using proof by contradiction, assume √2 is rational and derive a contradiction from the properties of even numbers.",
+        "Assume √2 is rational and find a number between a/b and its square root."
+      ],
+      "answer": "Using proof by contradiction: Assume √2 is rational, then it can be written as a/b, where a and b are coprime integers. Squaring both sides gives 2 = a^2 / b^2, or a^2 = 2b^2, implying a^2 is even, so a is even. Thus, a = 2k for some integer k. Substituting a = 2k into the equation gives b^2 = 2k^2, implying b is also even. This contradicts the assumption that a and b are coprime.",
+      "category": "Number Theory"
+    },
+    {
+      "question": "Find the limit of the following sequence: lim (n -> ∞) (1 + 1/n)^n.",
+      "options": [
+        "The limit is e (Euler's number).",
+        "The limit is 1.",
+        "The limit is ∞.",
+        "The limit is 2."
+      ],
+      "answer": "The limit is e (Euler's number).",
+      "category": "Calculus"
+    }
+  ]
+}

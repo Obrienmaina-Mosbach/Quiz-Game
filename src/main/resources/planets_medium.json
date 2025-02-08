@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which planet in the Solar System has the most extensive ring system?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "Which planet is known as the 'Red Planet' due to its iron oxide-rich surface?",
+      "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Which two planets rotate in the opposite direction to most other planets in the Solar System?",
+      "options": ["Venus and Uranus", "Mars and Jupiter", "Neptune and Saturn", "Mercury and Earth"],
+      "answer": "Venus and Uranus"
+    },
+    {
+      "question": "Which planet in the Solar System has the shortest day, completing a full rotation in under 10 hours?",
+      "options": ["Earth", "Saturn", "Jupiter", "Mars"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "What is the largest planet in the Solar System?",
+      "options": ["Saturn", "Neptune", "Jupiter", "Earth"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which planet has the Great Red Spot, a giant storm system?",
+      "options": ["Saturn", "Neptune", "Mars", "Jupiter"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which planet has the coldest average surface temperature in the Solar System?",
+      "options": ["Neptune", "Uranus", "Pluto", "Mars"],
+      "answer": "Uranus"
+    },
+    {
+      "question": "Which planet is the closest in size to Earth?",
+      "options": ["Mars", "Venus", "Neptune", "Mercury"],
+      "answer": "Venus"
+    },
+    {
+      "question": "Which planet has the highest mountain in the Solar System, Olympus Mons?",
+      "options": ["Earth", "Venus", "Mars", "Jupiter"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Which planet takes the longest time to orbit the Sun?",
+      "options": ["Saturn", "Neptune", "Uranus", "Jupiter"],
+      "answer": "Neptune"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What does CPU stand for?",
+      "options": ["Central Processing Unit", "Computer Personal Unit", "Central Personal Unit", "Core Processing Utility"],
+      "answer": "Central Processing Unit"
+    },
+    {
+      "question": "Which company created the Windows operating system?",
+      "options": ["Apple", "Microsoft", "Google", "IBM"],
+      "answer": "Microsoft"
+    },
+    {
+      "question": "What is the name of Apple's mobile operating system?",
+      "options": ["Android", "Windows", "iOS", "Linux"],
+      "answer": "iOS"
+    },
+    {
+      "question": "What does 'WWW' stand for in a website address?",
+      "options": ["World Wide Web", "Web Wide World", "Wireless Web Window", "Wide Web World"],
+      "answer": "World Wide Web"
+    },
+    {
+      "question": "Which programming language is primarily used for web development?",
+      "options": ["Python", "C++", "JavaScript", "Java"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "Which device is used to input text into a computer?",
+      "options": ["Monitor", "Mouse", "Keyboard", "Printer"],
+      "answer": "Keyboard"
+    },
+    {
+      "question": "What does 'USB' stand for?",
+      "options": ["Universal Serial Bus", "United System Board", "Universal Software Backup", "Unlimited Storage Base"],
+      "answer": "Universal Serial Bus"
+    },
+    {
+      "question": "What is the full form of 'Wi-Fi'?",
+      "options": ["Wireless Fidelity", "Wired Fidelity", "Wireless Finder", "Wide Frequency"],
+      "answer": "Wireless Fidelity"
+    },
+    {
+      "question": "Which company manufactures the iPhone?",
+      "options": ["Samsung", "Apple", "Google", "Huawei"],
+      "answer": "Apple"
+    },
+    {
+      "question": "What is the main function of an operating system?",
+      "options": ["To browse the internet", "To run applications", "To manage hardware and software", "To edit documents"],
+      "answer": "To manage hardware and software"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What does 'HTTP' stand for?",
+      "options": ["HyperText Transfer Protocol", "High Transmission Text Protocol", "Hyperlink Transfer Process", "Host Transfer Technology Protocol"],
+      "answer": "HyperText Transfer Protocol"
+    },
+    {
+      "question": "Which programming language is primarily used for developing Android apps?",
+      "options": ["Swift", "Kotlin", "C#", "JavaScript"],
+      "answer": "Kotlin"
+    },
+    {
+      "question": "Which type of memory is non-volatile and retains data even when power is turned off?",
+      "options": ["RAM", "Cache", "ROM", "Register"],
+      "answer": "ROM"
+    },
+    {
+      "question": "What is the function of a GPU in a computer system?",
+      "options": ["To process images and render graphics", "To manage power supply", "To control input and output operations", "To handle network connections"],
+      "answer": "To process images and render graphics"
+    },
+    {
+      "question": "Which company developed the Linux operating system?",
+      "options": ["Microsoft", "Apple", "IBM", "None, it was created by Linus Torvalds"],
+      "answer": "None, it was created by Linus Torvalds"
+    },
+    {
+      "question": "What is the name of the first web browser ever created?",
+      "options": ["Internet Explorer", "Netscape Navigator", "Mosaic", "WorldWideWeb"],
+      "answer": "WorldWideWeb"
+    },
+    {
+      "question": "Which of the following is a version control system used for tracking changes in code?",
+      "options": ["Git", "Docker", "Kubernetes", "Jenkins"],
+      "answer": "Git"
+    },
+    {
+      "question": "What does 'SSD' stand for in computer storage technology?",
+      "options": ["Solid-State Drive", "System Storage Device", "Software Storage Disk", "Super Speed Drive"],
+      "answer": "Solid-State Drive"
+    },
+    {
+      "question": "What does 'phishing' refer to in cybersecurity?",
+      "options": ["A type of social engineering attack used to steal sensitive data", "A hacking technique to crash servers", "A malware that corrupts files", "A tool used to encrypt data"],
+      "answer": "A type of social engineering attack used to steal sensitive data"
+    },
+    {
+      "question": "Which programming language is commonly used for data science and machine learning?",
+      "options": ["C++", "Python", "Java", "Ruby"],
+      "answer": "Python"
+    }
+  ]
+}

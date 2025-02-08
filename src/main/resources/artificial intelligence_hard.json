@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following algorithms is best suited for supervised learning with labeled data?",
+      "options": [
+        "K-means clustering",
+        "Support Vector Machines (SVM)",
+        "Principal Component Analysis (PCA)",
+        "Genetic Algorithms"
+      ],
+      "answer": "Support Vector Machines (SVM)",
+      "category": "Machine Learning"
+    },
+    {
+      "question": "What is the primary purpose of the backpropagation algorithm in neural networks?",
+      "options": [
+        "To optimize the weight updates by calculating the gradient of the loss function with respect to the network parameters",
+        "To initialize the weights of the neural network",
+        "To update the activation function",
+        "To reduce the learning rate during training"
+      ],
+      "answer": "To optimize the weight updates by calculating the gradient of the loss function with respect to the network parameters",
+      "category": "Neural Networks"
+    },
+    {
+      "question": "In the context of reinforcement learning, what does the term 'exploration' refer to?",
+      "options": [
+        "The process of maximizing the agent's reward by choosing the best-known action",
+        "The process of trying new actions to gather more information about the environment",
+        "The process of learning the optimal policy using the Bellman equation",
+        "The process of reducing the agent's decision-making uncertainty"
+      ],
+      "answer": "The process of trying new actions to gather more information about the environment",
+      "category": "Reinforcement Learning"
+    },
+    {
+      "question": "Which of the following is a key limitation of the k-nearest neighbors (KNN) algorithm?",
+      "options": [
+        "It is computationally expensive for large datasets because it requires storing all training data",
+        "It only works well with small datasets",
+        "It requires data to be normalized before use",
+        "It cannot be used for classification problems"
+      ],
+      "answer": "It is computationally expensive for large datasets because it requires storing all training data",
+      "category": "Machine Learning"
+    },
+    {
+      "question": "In the context of natural language processing (NLP), what is the 'curse of dimensionality'?",
+      "options": [
+        "The difficulty of finding meaningful patterns in data when the feature space is too small",
+        "The challenge that arises when increasing the dimensionality of the data leads to an exponential increase in computational resources",
+        "The issue of having too few features for a meaningful representation of language",
+        "The problem of having too many irrelevant features that confuse the model"
+      ],
+      "answer": "The challenge that arises when increasing the dimensionality of the data leads to an exponential increase in computational resources",
+      "category": "Natural Language Processing"
+    },
+    {
+      "question": "Which of the following deep learning architectures is specifically designed to process sequential data, such as time series or text?",
+      "options": [
+        "Convolutional Neural Networks (CNN)",
+        "Generative Adversarial Networks (GAN)",
+        "Recurrent Neural Networks (RNN)",
+        "Autoencoders"
+      ],
+      "answer": "Recurrent Neural Networks (RNN)",
+      "category": "Deep Learning"
+    },
+    {
+      "question": "What is the main goal of unsupervised learning?",
+      "options": [
+        "To learn from labeled data and predict outcomes for new data",
+        "To cluster data into groups with similar characteristics without labels",
+        "To optimize the parameters of a model using gradient descent",
+        "To find the optimal policy in a reinforcement learning setup"
+      ],
+      "answer": "To cluster data into groups with similar characteristics without labels",
+      "category": "Machine Learning"
+    },
+    {
+      "question": "Which of the following techniques is commonly used to prevent overfitting in neural networks?",
+      "options": [
+        "Gradient descent",
+        "Early stopping",
+        "Random forests",
+        "K-means clustering"
+      ],
+      "answer": "Early stopping",
+      "category": "Deep Learning"
+    },
+    {
+      "question": "Which of the following is a key difference between the 'exploit' and 'explore' phases in reinforcement learning?",
+      "options": [
+        "Exploit refers to trying new actions, while explore refers to choosing the action that maximizes expected reward",
+        "Exploit refers to choosing the best-known action based on past experience, while explore refers to trying new actions to gather more information",
+        "Exploit involves learning the optimal policy, while explore refers to trying actions randomly",
+        "Exploit is focused on reducing uncertainty, while explore focuses on maximizing rewards"
+      ],
+      "answer": "Exploit refers to choosing the best-known action based on past experience, while explore refers to trying new actions to gather more information",
+      "category": "Reinforcement Learning"
+    },
+    {
+      "question": "What does the term 'dropout' refer to in deep learning?",
+      "options": [
+        "A regularization technique where a random subset of neurons are 'dropped' or ignored during each training iteration to prevent overfitting",
+        "A method for increasing the size of the training dataset by randomly modifying data",
+        "A technique for reducing the learning rate during training",
+        "A method for evaluating the performance of a trained model on unseen data"
+      ],
+      "answer": "A regularization technique where a random subset of neurons are 'dropped' or ignored during each training iteration to prevent overfitting",
+      "category": "Deep Learning"
+    }
+  ]
+}

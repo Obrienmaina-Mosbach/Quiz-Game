@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "What were the main causes of the German Peasants' War (1524-1525), and what was its outcome?",
+      "options": [
+        "Socio-economic pressures, religious reforms, and the desire for greater freedoms from feudal lords. The revolt was suppressed by German princes.",
+        "Religious disagreements over the Catholic Church's teachings. The revolt led to increased religious tolerance.",
+        "Economic prosperity and the desire to gain independence from feudal lords. The revolt led to the establishment of a new social order.",
+        "Political power struggles among the German states. The revolt led to the division of Germany into separate regions."
+      ],
+      "answer": "Socio-economic pressures, religious reforms, and the desire for greater freedoms from feudal lords. The revolt was suppressed by German princes.",
+      "category": "Early Modern German History"
+    },
+    {
+      "question": "How did Otto von Bismarck’s policies lead to the unification of Germany in 1871?",
+      "options": [
+        "Bismarck used a series of diplomatic alliances and peaceful negotiations to unite Germany.",
+        "Bismarck used wars and diplomatic maneuvering, including the Danish, Austro-Prussian, and Franco-Prussian Wars.",
+        "Bismarck promoted a policy of neutrality, which helped unite the German states peacefully.",
+        "Bismarck’s policies focused solely on economic reforms, which eventually led to political unification."
+      ],
+      "answer": "Bismarck used wars and diplomatic maneuvering, including the Danish, Austro-Prussian, and Franco-Prussian Wars.",
+      "category": "19th Century German History"
+    },
+    {
+      "question": "What was the significance of the Weimar Republic (1919-1933) in German history?",
+      "options": [
+        "It was Germany's first democracy, but its political instability and economic crises led to its collapse and the rise of Hitler.",
+        "It was a time of political stability, economic prosperity, and cultural achievements, which led to a strong democratic system.",
+        "It marked the end of monarchy in Germany and the beginning of a strong, centralized government.",
+        "It was characterized by a period of authoritarian rule under the Weimar government."
+      ],
+      "answer": "It was Germany's first democracy, but its political instability and economic crises led to its collapse and the rise of Hitler.",
+      "category": "20th Century German History"
+    },
+    {
+      "question": "What was the impact of the Treaty of Versailles (1919) on Germany and its role in the rise of Nazi power?",
+      "options": [
+        "The Treaty of Versailles had little impact on Germany and did not contribute to the rise of Nazi power.",
+        "The treaty’s harsh penalties and economic hardships contributed to resentment in Germany, creating fertile ground for extremist ideologies.",
+        "The Treaty of Versailles led to the peaceful reunification of Germany and the rise of democratic ideologies.",
+        "The treaty led to the establishment of a strong, democratic government in Germany, preventing the rise of Nazi power."
+      ],
+      "answer": "The treaty’s harsh penalties and economic hardships contributed to resentment in Germany, creating fertile ground for extremist ideologies.",
+      "category": "20th Century German History"
+    },
+    {
+      "question": "Explain the role of the German resistance during World War II and the significance of the 20 July Plot of 1944.",
+      "options": [
+        "The German resistance was a unified movement supporting the Nazi regime, and the 20 July Plot aimed to extend its power.",
+        "The German resistance was composed of individuals opposed to the Nazi regime, and the 20 July Plot was an attempt to assassinate Hitler, though it failed.",
+        "The German resistance was a movement focused on undermining the Allies during World War II, and the 20 July Plot aimed to create peace with the Soviet Union.",
+        "The German resistance was largely non-existent, and the 20 July Plot was a failed attempt by Nazi officials to regain power."
+      ],
+      "answer": "The German resistance was composed of individuals opposed to the Nazi regime, and the 20 July Plot was an attempt to assassinate Hitler, though it failed.",
+      "category": "World War II German History"
+    },
+    {
+      "question": "What were the primary goals and consequences of the division of Germany after World War II?",
+      "options": [
+        "The goal was to establish a unified Germany. The consequence was the creation of East and West Germany, which lasted until 1990.",
+        "The goal was to permanently divide Germany for economic reasons. The consequence was the creation of East and West Germany, which led to the Cold War.",
+        "The goal was to establish two separate, independent German states. The consequence was the peaceful reunification of Germany in the 1950s.",
+        "The goal was to implement a system of joint government. The consequence was the dissolution of the German state."
+      ],
+      "answer": "The goal was to permanently divide Germany for economic reasons. The consequence was the creation of East and West Germany, which led to the Cold War.",
+      "category": "Post-WWII German History"
+    },
+    {
+      "question": "How did the Berlin Wall come into existence, and what were its impacts on East and West Germany?",
+      "options": [
+        "The Berlin Wall was built to promote economic integration, separating the capitalist West from the communist East.",
+        "The Berlin Wall was erected by East Germany to prevent the migration of East Germans to West Berlin and represented the Cold War divide.",
+        "The Berlin Wall was a result of the peaceful unification of Germany, with no significant impact on East and West Germany.",
+        "The Berlin Wall was built to allow more East German citizens to visit West Berlin, symbolizing unity."
+      ],
+      "answer": "The Berlin Wall was erected by East Germany to prevent the migration of East Germans to West Berlin and represented the Cold War divide.",
+      "category": "Cold War German History"
+    },
+    {
+      "question": "What was the role of Martin Luther in the Protestant Reformation and its impact on German society?",
+      "options": [
+        "Martin Luther’s ideas about salvation by faith alone and the authority of scripture led to religious upheaval and division in Germany.",
+        "Martin Luther was a Catholic monk who helped bring about religious unity in Germany during the Reformation.",
+        "Martin Luther’s teachings led to the complete disbandment of the Catholic Church in Germany.",
+        "Martin Luther’s ideas were rejected by the majority of Germans, and the Reformation had little impact on German society."
+      ],
+      "answer": "Martin Luther’s ideas about salvation by faith alone and the authority of scripture led to religious upheaval and division in Germany.",
+      "category": "Early Modern German History"
+    },
+    {
+      "question": "What were the major social and political challenges faced by Germany during the period of the Allied occupation (1945-1949)?",
+      "options": [
+        "Germany faced political stability, economic recovery, and social unity during the Allied occupation.",
+        "Germany faced widespread devastation, food shortages, and a collapsing economy, along with ideological tensions between the Western Allies and the Soviet Union.",
+        "Germany experienced a smooth transition to democratic governance with no significant challenges during the occupation.",
+        "Germany’s economy thrived, and there was no political instability during the occupation period."
+      ],
+      "answer": "Germany faced widespread devastation, food shortages, and a collapsing economy, along with ideological tensions between the Western Allies and the Soviet Union.",
+      "category": "Post-WWII German History"
+    },
+    {
+      "question": "How did the economic miracle (Wirtschaftswunder) of West Germany unfold after World War II?",
+      "options": [
+        "The economic miracle resulted from the dismantling of the social market economy and the reduction of American aid.",
+        "West Germany’s rapid recovery was fueled by American aid, economic reforms, and industrial development, leading to full employment and a high standard of living.",
+        "West Germany’s Wirtschaftswunder was mainly driven by the Soviet Union’s support, which helped rebuild the economy.",
+        "West Germany’s economic miracle occurred without foreign aid, based solely on internal resources and reforms."
+      ],
+      "answer": "West Germany’s rapid recovery was fueled by American aid, economic reforms, and industrial development, leading to full employment and a high standard of living.",
+      "category": "Post-WWII German History"
+    }
+  ]
+}

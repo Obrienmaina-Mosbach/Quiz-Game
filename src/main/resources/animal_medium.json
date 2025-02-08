@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "Which animal is known for its distinctive black and white coat and primarily eats bamboo?",
+      "options": ["Giant Panda", "Zebra", "Koala", "Skunk"],
+      "answer": "Giant Panda",
+      "category": "Animals"
+    },
+    {
+      "question": "Which species of fish is known for its ability to change sex during its lifetime?",
+      "options": ["Clownfish", "Anglerfish", "Lionfish", "Goldfish"],
+      "answer": "Clownfish",
+      "category": "Animals"
+    },
+    {
+      "question": "Which animal is the largest terrestrial mammal on Earth?",
+      "options": ["African Elephant", "White Rhino", "Giraffe", "Hippopotamus"],
+      "answer": "African Elephant",
+      "category": "Animals"
+    },
+    {
+      "question": "What is the primary diet of a koala?",
+      "options": ["Eucalyptus leaves", "Bamboo", "Grass", "Insects"],
+      "answer": "Eucalyptus leaves",
+      "category": "Animals"
+    },
+    {
+      "question": "Which animal can sleep for up to 20 hours a day?",
+      "options": ["Koala", "Cat", "Sloth", "Lion"],
+      "answer": "Sloth",
+      "category": "Animals"
+    },
+    {
+      "question": "Which species of bird is capable of flying backward?",
+      "options": ["Hummingbird", "Eagle", "Pigeon", "Albatross"],
+      "answer": "Hummingbird",
+      "category": "Animals"
+    },
+    {
+      "question": "Which mammal is known to have the shortest gestation period?",
+      "options": ["Opossum", "Human", "Kangaroo", "Horse"],
+      "answer": "Opossum",
+      "category": "Animals"
+    },
+    {
+      "question": "Which reptile is known for having a shell and retracting its head and limbs for protection?",
+      "options": ["Turtle", "Crocodile", "Lizard", "Gecko"],
+      "answer": "Turtle",
+      "category": "Animals"
+    },
+    {
+      "question": "What animal is known for its exceptional memory and intelligence, and is the largest land carnivore?",
+      "options": ["Lion", "Polar Bear", "Elephant", "Orangutan"],
+      "answer": "Polar Bear",
+      "category": "Animals"
+    },
+    {
+      "question": "Which animal is known to communicate through echolocation?",
+      "options": ["Dolphin", "Bat", "Whale", "All of the above"],
+      "answer": "All of the above",
+      "category": "Animals"
+    },
+    {
+      "question": "What is the fastest aquatic animal?",
+      "options": ["Blue Whale", "Sailfish", "Shark", "Marlin"],
+      "answer": "Sailfish",
+      "category": "Animals"
+    },
+    {
+      "question": "Which animal has the longest migration distance of any mammal?",
+      "options": ["Gray Whale", "Caribou", "Monarch Butterfly", "Humpback Whale"],
+      "answer": "Gray Whale",
+      "category": "Animals"
+    },
+    {
+      "question": "Which species of bear is native to North America and has a black, brown, or white coat?",
+      "options": ["Grizzly Bear", "Polar Bear", "Sun Bear", "Black Bear"],
+      "answer": "Black Bear",
+      "category": "Animals"
+    },
+    {
+      "question": "Which animal is known for its distinctive black and white markings and spends most of its time in the snow?",
+      "options": ["Snow Leopard", "Giant Panda", "Zebra", "Arctic Fox"],
+      "answer": "Snow Leopard",
+      "category": "Animals"
+    },
+    {
+      "question": "Which amphibian is known for regenerating lost limbs and organs?",
+      "options": ["Axolotl", "Frog", "Newt", "Salamander"],
+      "answer": "Axolotl",
+      "category": "Animals"
+    }
+  ]
+}

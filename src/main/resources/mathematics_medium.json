@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Solve the system of equations: 2x + 3y = 5 and 4x - y = 3.",
+      "options": [
+        "x = 1, y = 1",
+        "x = 2, y = 3",
+        "x = 3, y = 2",
+        "x = -1, y = -1"
+      ],
+      "answer": "x = 1, y = 1",
+      "category": "Algebra"
+    },
+    {
+      "question": "Find the limit: lim(x -> 0) (sin(x) / x).",
+      "options": [
+        "0",
+        "1",
+        "Infinity",
+        "Undefined"
+      ],
+      "answer": "1",
+      "category": "Calculus"
+    },
+    {
+      "question": "Compute the integral of 3x^2 - 2x + 1 with respect to x.",
+      "options": [
+        "x^3 - x^2 + x + C",
+        "3x^3 - 2x^2 + x + C",
+        "x^2 - 2x + 1 + C",
+        "x^3 - 3x^2 + 2x + C"
+      ],
+      "answer": "x^3 - x^2 + x + C",
+      "category": "Calculus"
+    },
+    {
+      "question": "Find the derivative of 4x^3 - 3x^2 + 2x - 5.",
+      "options": [
+        "12x^2 - 6x + 2",
+        "12x^2 + 6x - 2",
+        "8x^2 - 6x + 2",
+        "12x^2 - 6x + 5"
+      ],
+      "answer": "12x^2 - 6x + 2",
+      "category": "Calculus"
+    },
+    {
+      "question": "If a right triangle has legs of length 5 and 12, find the hypotenuse.",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "10"
+      ],
+      "answer": "13",
+      "category": "Geometry"
+    },
+    {
+      "question": "Solve for x: log(x) + log(2x) = 3.",
+      "options": [
+        "x = 10",
+        "x = 5",
+        "x = 20",
+        "x = 100"
+      ],
+      "answer": "x = 10",
+      "category": "Logarithms"
+    },
+    {
+      "question": "Solve the quadratic equation: x^2 + 5x + 6 = 0.",
+      "options": [
+        "x = -2, x = -3",
+        "x = -1, x = -6",
+        "x = 2, x = 3",
+        "x = 1, x = -6"
+      ],
+      "answer": "x = -2, x = -3",
+      "category": "Algebra"
+    },
+    {
+      "question": "Find the sum of the first 100 prime numbers.",
+      "options": [
+        "24133",
+        "25000",
+        "20000",
+        "18000"
+      ],
+      "answer": "24133",
+      "category": "Number Theory"
+    },
+    {
+      "question": "Find the area of a circle with a radius of 7 cm.",
+      "options": [
+        "154 cm^2",
+        "150 cm^2",
+        "140 cm^2",
+        "160 cm^2"
+      ],
+      "answer": "154 cm^2",
+      "category": "Geometry"
+    },
+    {
+      "question": "Solve the following matrix equation: A * X = B, where A = [[1, 2], [3, 4]] and B = [[5], [6]].",
+      "options": [
+        "X = [[-4], [4.5]]",
+        "X = [[2], [-1]]",
+        "X = [[1], [1]]",
+        "X = [[-1], [2]]"
+      ],
+      "answer": "X = [[-4], [4.5]]",
+      "category": "Linear Algebra"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Who was the first Chancellor of Germany?",
+      "options": ["Otto von Bismarck", "Adolf Hitler", "Angela Merkel", "Konrad Adenauer"],
+      "answer": "Otto von Bismarck"
+    },
+    {
+      "question": "What year did Germany reunify after the Cold War?",
+      "options": ["1985", "1989", "1990", "1991"],
+      "answer": "1990"
+    },
+    {
+      "question": "What was the capital of West Germany during the Cold War?",
+      "options": ["Berlin", "Frankfurt", "Munich", "Bonn"],
+      "answer": "Bonn"
+    },
+    {
+      "question": "What was the name of the wall that divided East and West Berlin?",
+      "options": ["Great Wall", "Berlin Wall", "Iron Curtain", "German Divide"],
+      "answer": "Berlin Wall"
+    },
+    {
+      "question": "Which empire did Germany belong to before becoming a unified country in 1871?",
+      "options": ["Roman Empire", "Austro-Hungarian Empire", "Holy Roman Empire", "British Empire"],
+      "answer": "Holy Roman Empire"
+    },
+    {
+      "question": "Which German leader was responsible for starting World War II?",
+      "options": ["Otto von Bismarck", "Kaiser Wilhelm II", "Adolf Hitler", "Ludwig Erhard"],
+      "answer": "Adolf Hitler"
+    },
+    {
+      "question": "What was the name of the German currency before the Euro?",
+      "options": ["Reichsmark", "Franc", "Deutsche Mark", "Schilling"],
+      "answer": "Deutsche Mark"
+    },
+    {
+      "question": "Who was the first female Chancellor of Germany?",
+      "options": ["Angela Merkel", "Ursula von der Leyen", "Hannah Arendt", "Margot Honecker"],
+      "answer": "Angela Merkel"
+    },
+    {
+      "question": "Which year did World War I begin?",
+      "options": ["1905", "1914", "1920", "1939"],
+      "answer": "1914"
+    },
+    {
+      "question": "What was the official name of East Germany during the Cold War?",
+      "options": ["Federal Republic of Germany", "Weimar Republic", "German Empire", "German Democratic Republic"],
+      "answer": "German Democratic Republic"
+    }
+  ]
+}

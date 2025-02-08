@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What does the acronym 'PCIe' stand for in computer hardware?",
+      "options": ["Peripheral Component Interconnect Express", "Personal Computer Internal Expansion", "Processor Communication Interface Extension", "Parallel Computing Input Express"],
+      "answer": "Peripheral Component Interconnect Express"
+    },
+    {
+      "question": "Which cryptographic algorithm is commonly used for securing HTTPS connections?",
+      "options": ["AES", "RSA", "SHA-256", "MD5"],
+      "answer": "RSA"
+    },
+    {
+      "question": "Who is credited with inventing the first mechanical computer?",
+      "options": ["Alan Turing", "Charles Babbage", "John von Neumann", "Ada Lovelace"],
+      "answer": "Charles Babbage"
+    },
+    {
+      "question": "Which programming language is commonly used for developing operating systems like Windows and Linux?",
+      "options": ["Python", "Java", "C", "Ruby"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the primary function of a 'hashing' algorithm in cybersecurity?",
+      "options": ["Encryption", "Data compression", "Generating unique fixed-size representations", "Data storage"],
+      "answer": "Generating unique fixed-size representations"
+    },
+    {
+      "question": "Which company developed the first commercially available microprocessor, the Intel 4004?",
+      "options": ["IBM", "AMD", "Intel", "Motorola"],
+      "answer": "Intel"
+    },
+    {
+      "question": "What is the term for a type of malware that demands payment to unlock a user's data?",
+      "options": ["Trojan", "Worm", "Ransomware", "Spyware"],
+      "answer": "Ransomware"
+    },
+    {
+      "question": "What does 'Moore's Law' predict about computing power?",
+      "options": ["It doubles approximately every two years", "It decreases every five years", "It remains constant over time", "It follows an unpredictable pattern"],
+      "answer": "It doubles approximately every two years"
+    },
+    {
+      "question": "What does 'BIOS' stand for in a computer system?",
+      "options": ["Binary Input Output System", "Basic Integrated Operating System", "Basic Input Output System", "Boot Initialization and Operating System"],
+      "answer": "Basic Input Output System"
+    },
+    {
+      "question": "What is the main purpose of a 'sandbox' in cybersecurity?",
+      "options": ["To test and analyze suspicious files in an isolated environment", "To speed up network connections", "To store encrypted passwords", "To block access to malicious websites"],
+      "answer": "To test and analyze suspicious files in an isolated environment"
+    }
+  ]
+}

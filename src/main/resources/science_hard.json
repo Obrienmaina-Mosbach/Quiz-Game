@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "What is the name of the hypothetical particle that mediates the force of gravity in quantum mechanics?",
+      "options": ["Gluon", "Graviton", "Neutrino", "Photon"],
+      "answer": "Graviton"
+    },
+    {
+      "question": "Which law of thermodynamics states that entropy always increases in an isolated system?",
+      "options": ["First Law", "Second Law", "Third Law", "Zeroth Law"],
+      "answer": "Second Law"
+    },
+    {
+      "question": "What is the rarest naturally occurring element on Earth?",
+      "options": ["Francium", "Astatine", "Radon", "Technetium"],
+      "answer": "Astatine"
+    },
+    {
+      "question": "What is the Chandrasekhar limit?",
+      "options": [
+        "The maximum mass of a white dwarf star before it collapses",
+        "The minimum temperature for nuclear fusion",
+        "The point at which a neutron star forms",
+        "The maximum speed a star can rotate before disintegration"
+      ],
+      "answer": "The maximum mass of a white dwarf star before it collapses"
+    },
+    {
+      "question": "Which quantum mechanical principle states that certain pairs of physical properties cannot be simultaneously measured with high precision?",
+      "options": [
+        "Pauli Exclusion Principle",
+        "Heisenberg Uncertainty Principle",
+        "Schrödinger’s Equation",
+        "Einstein-Podolsky-Rosen Paradox"
+      ],
+      "answer": "Heisenberg Uncertainty Principle"
+    },
+    {
+      "question": "What is the name of the process by which plants release water vapor into the atmosphere?",
+      "options": ["Evaporation", "Transpiration", "Condensation", "Sublimation"],
+      "answer": "Transpiration"
+    },
+    {
+      "question": "Which fundamental force is responsible for holding atomic nuclei together?",
+      "options": ["Electromagnetic Force", "Weak Nuclear Force", "Strong Nuclear Force", "Gravitational Force"],
+      "answer": "Strong Nuclear Force"
+    },
+    {
+      "question": "What is the approximate age of the universe according to current scientific estimates?",
+      "options": ["4.6 billion years", "13.8 billion years", "25.7 billion years", "100 billion years"],
+      "answer": "13.8 billion years"
+    },
+    {
+      "question": "What is the most abundant element in the Earth's crust?",
+      "options": ["Oxygen", "Silicon", "Iron", "Aluminum"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What type of galaxy is the Milky Way classified as?",
+      "options": ["Elliptical", "Irregular", "Spiral", "Lenticular"],
+      "answer": "Spiral"
+    }
+  ]
+}

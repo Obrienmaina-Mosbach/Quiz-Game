@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which planet is closest to the Sun?",
+      "options": ["Earth", "Venus", "Mercury", "Mars"],
+      "answer": "Mercury"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Which is the largest planet in our solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which planet is famous for its rings?",
+      "options": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "Which planet do we live on?",
+      "options": ["Mars", "Venus", "Earth", "Jupiter"],
+      "answer": "Earth"
+    },
+    {
+      "question": "Which planet is the hottest in the solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Neptune"],
+      "answer": "Venus"
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "Which planet is known as the 'Blue Planet'?",
+      "options": ["Uranus", "Neptune", "Earth", "Mercury"],
+      "answer": "Earth"
+    },
+    {
+      "question": "Which planet has a storm known as the Great Red Spot?",
+      "options": ["Saturn", "Neptune", "Jupiter", "Uranus"],
+      "answer": "Jupiter"
+    },
+    {
+      "question": "Which is the farthest planet from the Sun in our solar system?",
+      "options": ["Uranus", "Neptune", "Saturn", "Pluto"],
+      "answer": "Neptune"
+    }
+  ]
+}

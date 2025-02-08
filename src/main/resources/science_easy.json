@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical symbol for water?",
+      "options": ["O2", "H2O", "CO2", "NaCl"],
+      "answer": "H2O"
+    },
+    {
+      "question": "What planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What gas do humans breathe in to survive?",
+      "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"],
+      "answer": "Oxygen"
+    },
+    {
+      "question": "What force keeps us on the ground?",
+      "options": ["Magnetism", "Electricity", "Gravity", "Friction"],
+      "answer": "Gravity"
+    },
+    {
+      "question": "Which part of the plant makes food through photosynthesis?",
+      "options": ["Roots", "Stem", "Leaves", "Flowers"],
+      "answer": "Leaves"
+    },
+    {
+      "question": "What is the process by which water turns into vapor?",
+      "options": ["Condensation", "Evaporation", "Precipitation", "Freezing"],
+      "answer": "Evaporation"
+    },
+    {
+      "question": "Which organ pumps blood throughout the human body?",
+      "options": ["Lungs", "Brain", "Heart", "Kidneys"],
+      "answer": "Heart"
+    },
+    {
+      "question": "What is the nearest star to Earth?",
+      "options": ["Proxima Centauri", "The Moon", "The Sun", "Sirius"],
+      "answer": "The Sun"
+    },
+    {
+      "question": "What do bees collect from flowers to make honey?",
+      "options": ["Pollen", "Nectar", "Seeds", "Leaves"],
+      "answer": "Nectar"
+    },
+    {
+      "question": "Which metal is used in making wires because it is a good conductor of electricity?",
+      "options": ["Gold", "Silver", "Copper", "Iron"],
+      "answer": "Copper"
+    }
+  ]
+}

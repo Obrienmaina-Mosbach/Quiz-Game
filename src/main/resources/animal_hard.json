@@ -1,0 +1,94 @@
+{
+  "questions": [
+    {
+      "question": "What is the fastest land animal in the world?",
+      "options": ["Cheetah", "Lion", "Antelope", "Tiger"],
+      "answer": "Cheetah",
+      "category": "Animals"
+    },
+    {
+      "question": "Which bird is known for its ability to mimic human speech?",
+      "options": ["African Grey Parrot", "Cockatoo", "Macaw", "Eagle"],
+      "answer": "African Grey Parrot",
+      "category": "Animals"
+    },
+    {
+      "question": "What is the largest species of shark?",
+      "options": ["Great White Shark", "Tiger Shark", "Whale Shark", "Hammerhead Shark"],
+      "answer": "Whale Shark",
+      "category": "Animals"
+    },
+    {
+      "question": "Which animal has the longest lifespan?",
+      "options": ["Bowhead Whale", "Elephant", "Giant Tortoise", "Koi Fish"],
+      "answer": "Bowhead Whale",
+      "category": "Animals"
+    },
+    {
+      "question": "Which species of jellyfish is considered biologically immortal?",
+      "options": ["Aurelia Aurita", "Turritopsis dohrnii", "Mastigias Papua", "Chrysaora Fuscescens"],
+      "answer": "Turritopsis dohrnii",
+      "category": "Animals"
+    },
+    {
+      "question": "What is the only mammal capable of true flight?",
+      "options": ["Bat", "Flying Squirrel", "Colugo", "Sugar Glider"],
+      "answer": "Bat",
+      "category": "Animals"
+    },
+    {
+      "question": "Which mammal is known to have the longest migration?",
+      "options": ["Gray Whale", "Caribou", "Monarch Butterfly", "Humpback Whale"],
+      "answer": "Gray Whale",
+      "category": "Animals"
+    },
+    {
+      "question": "Which species of frog is known to freeze and then thaw out without harm?",
+      "options": ["Wood Frog", "Bullfrog", "Tree Frog", "Glass Frog"],
+      "answer": "Wood Frog",
+      "category": "Animals"
+    },
+    {
+      "question": "What animal has the most powerful bite force relative to its size?",
+      "options": ["Saltwater Crocodile", "Tiger Beetle", "Jaguar", "Great White Shark"],
+      "answer": "Tiger Beetle",
+      "category": "Animals"
+    },
+    {
+      "question": "Which animal is capable of regenerating entire limbs and organs?",
+      "options": ["Axolotl", "Starfish", "Gecko", "Lizard"],
+      "answer": "Axolotl",
+      "category": "Animals"
+    },
+    {
+      "question": "What is the fastest marine animal?",
+      "options": ["Black Marlin", "Sailfish", "Dolphin", "Bluefin Tuna"],
+      "answer": "Black Marlin",
+      "category": "Animals"
+    },
+    {
+      "question": "Which animal's heart can beat more than 1,000 times per minute?",
+      "options": ["Hummingbird", "Bat", "Shrew", "Cheetah"],
+      "answer": "Hummingbird",
+      "category": "Animals"
+    },
+    {
+      "question": "What is the largest living species of turtle?",
+      "options": ["Leatherback Sea Turtle", "Green Sea Turtle", "Loggerhead Turtle", "Hawksbill Turtle"],
+      "answer": "Leatherback Sea Turtle",
+      "category": "Animals"
+    },
+    {
+      "question": "Which mammal produces the smallest eggs?",
+      "options": ["Echidna", "Platypus", "Kangaroo", "Opossum"],
+      "answer": "Echidna",
+      "category": "Animals"
+    },
+    {
+      "question": "Which animal has the longest neck in relation to its body size?",
+      "options": ["Giraffe", "Camel", "Okapi", "Long-necked Dinosaur"],
+      "answer": "Giraffe",
+      "category": "Animals"
+    }
+  ]
+}

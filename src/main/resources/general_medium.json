@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "What is the chemical symbol for the element with atomic number 79?",
+      "options": ["Au", "Ag", "Pb", "Fe"],
+      "answer": "Au",
+      "category": "Science"
+    },
+    {
+      "question": "Which country was formerly known as Ceylon?",
+      "options": ["Sri Lanka", "India", "Thailand", "Pakistan"],
+      "answer": "Sri Lanka",
+      "category": "Geography"
+    },
+    {
+      "question": "Who wrote the novel 'One Hundred Years of Solitude'?",
+      "options": ["Gabriel García Márquez", "Mario Vargas Llosa", "Carlos Fuentes", "Isabel Allende"],
+      "answer": "Gabriel García Márquez",
+      "category": "Literature"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": ["1912", "1905", "1923", "1898"],
+      "answer": "1912",
+      "category": "History"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "options": ["Nile River", "Amazon River", "Yangtze River", "Mississippi River"],
+      "answer": "Nile River",
+      "category": "Geography"
+    },
+    {
+      "question": "What was the first man-made object to reach space?",
+      "options": ["Vostok 1", "Sputnik 1", "Apollo 11", "Explorer 1"],
+      "answer": "Sputnik 1",
+      "category": "Science"
+    },
+    {
+      "question": "What is the capital city of Canada?",
+      "options": ["Ottawa", "Toronto", "Vancouver", "Montreal"],
+      "answer": "Ottawa",
+      "category": "Geography"
+    },
+    {
+      "question": "Which famous artist is known for painting the 'Mona Lisa' and 'The Last Supper'?",
+      "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Vincent van Gogh"],
+      "answer": "Leonardo da Vinci",
+      "category": "Art"
+    },
+    {
+      "question": "Which element has the highest melting point?",
+      "options": ["Tungsten", "Iron", "Carbon", "Gold"],
+      "answer": "Tungsten",
+      "category": "Science"
+    },
+    {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": ["Marie Curie", "Rosalind Franklin", "Jane Goodall", "Ada Lovelace"],
+      "answer": "Marie Curie",
+      "category": "History"
+    },
+    {
+      "question": "In what year did the Berlin Wall fall?",
+      "options": ["1990", "1989", "1985", "1979"],
+      "answer": "1989",
+      "category": "History"
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara Desert", "Antarctic Desert", "Arabian Desert", "Gobi Desert"],
+      "answer": "Antarctic Desert",
+      "category": "Geography"
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Jupiter", "Mercury"],
+      "answer": "Mars",
+      "category": "Science"
+    },
+    {
+      "question": "What year did the first successful moon landing occur?",
+      "options": ["1970", "1969", "1959", "1965"],
+      "answer": "1969",
+      "category": "History"
+    },
+    {
+      "question": "Which famous scientist developed the theory of relativity?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+      "answer": "Albert Einstein",
+      "category": "Science"
+    },
+    {
+      "question": "Which country has the most pyramids in the world?",
+      "options": ["Egypt", "Sudan", "Mexico", "Peru"],
+      "answer": "Sudan",
+      "category": "Geography"
+    }
+  ]
+}

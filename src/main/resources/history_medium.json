@@ -1,0 +1,147 @@
+{
+  "questions": [
+    {
+      "question": "What were the key consequences of the signing of the Treaty of Frankfurt in 1871?",
+      "options": [
+        "France lost the provinces of Alsace and Lorraine to Germany.",
+        "The Treaty established the European Union.",
+        "The German Empire was dissolved.",
+        "Prussia was forced to pay a large indemnity to France."
+      ],
+      "answer": "France lost the provinces of Alsace and Lorraine to Germany.",
+      "category": "19th Century German History"
+    },
+    {
+      "question": "What was the role of the Junker class in the rise of Prussia as a dominant European power?",
+      "options": [
+        "They played a key role by supporting Prussia's militarization and political strategy.",
+        "They were opposed to the militarization of Prussia.",
+        "They provided financial support for the French army.",
+        "They were primarily involved in trade and commerce."
+      ],
+      "answer": "They played a key role by supporting Prussia's militarization and political strategy.",
+      "category": "19th Century German History"
+    },
+    {
+      "question": "How did the defeat of Napoleon influence the political structure of Germany?",
+      "options": [
+        "It led to the formation of the German Confederation in 1815.",
+        "It resulted in the immediate unification of Germany.",
+        "It established the Weimar Republic.",
+        "It led to the rise of communism in Germany."
+      ],
+      "answer": "It led to the formation of the German Confederation in 1815.",
+      "category": "Early Modern German History"
+    },
+    {
+      "question": "What led to the collapse of the German Empire after World War I?",
+      "options": [
+        "The defeat in the war and the abdication of Kaiser Wilhelm II.",
+        "The German economy became stronger after the war.",
+        "The Treaty of Versailles was rejected by the Allies.",
+        "The German Empire expanded its territories."
+      ],
+      "answer": "The defeat in the war and the abdication of Kaiser Wilhelm II.",
+      "category": "20th Century German History"
+    },
+    {
+      "question": "What was the significance of the Battle of Leipzig (1813) in the Napoleonic Wars for Germany?",
+      "options": [
+        "It marked the beginning of the end for Napoleon and led to the liberation of Germany.",
+        "It was a victory for Napoleon that solidified his control over Europe.",
+        "It was the battle that led to the formation of the German Empire.",
+        "It caused the disintegration of the German Confederation."
+      ],
+      "answer": "It marked the beginning of the end for Napoleon and led to the liberation of Germany.",
+      "category": "Early Modern German History"
+    },
+    {
+      "question": "What was the impact of the 1870 Franco-Prussian War on the unification of Germany?",
+      "options": [
+        "The war united the German states under Prussian leadership.",
+        "It led to the dissolution of the German Confederation.",
+        "It resulted in the formation of the Weimar Republic.",
+        "It caused Germany to lose its territories to France."
+      ],
+      "answer": "The war united the German states under Prussian leadership.",
+      "category": "19th Century German History"
+    },
+    {
+      "question": "What were the primary objectives of the German military during the Schlieffen Plan of World War I?",
+      "options": [
+        "To avoid a two-front war by defeating France quickly before focusing on Russia.",
+        "To invade Britain and destroy the Royal Navy.",
+        "To occupy France indefinitely and force a peace settlement.",
+        "To provide aid to the Austro-Hungarian Empire in the East."
+      ],
+      "answer": "To avoid a two-front war by defeating France quickly before focusing on Russia.",
+      "category": "World War I German History"
+    },
+    {
+      "question": "How did the economic and social conditions in Germany contribute to the rise of Adolf Hitler and the Nazi Party?",
+      "options": [
+        "Economic hardship, unemployment, and resentment over the Treaty of Versailles fueled support for the Nazi Party.",
+        "Germany's economy was thriving, and people were uninterested in radical politics.",
+        "The Nazi Party promised to dismantle the existing political system.",
+        "The Nazi Party focused on foreign expansion rather than domestic issues."
+      ],
+      "answer": "Economic hardship, unemployment, and resentment over the Treaty of Versailles fueled support for the Nazi Party.",
+      "category": "20th Century German History"
+    },
+    {
+      "question": "What was the role of the Stasi in East Germany and how did it affect the lives of East Germans?",
+      "options": [
+        "It was the secret police that created a climate of fear and surveillance.",
+        "It was a political party that promoted East Germany's economic success.",
+        "It was a military organization responsible for defending East Germany against external threats.",
+        "It was an educational institution that focused on teaching communist ideology."
+      ],
+      "answer": "It was the secret police that created a climate of fear and surveillance.",
+      "category": "Cold War German History"
+    },
+    {
+      "question": "What was the significance of the Battle of Verdun (1916) in the context of Germany's role in World War I?",
+      "options": [
+        "It became a symbol of French resistance and highlighted the high human cost of the war.",
+        "It was a decisive German victory that led to a swift conclusion of the war.",
+        "It marked the beginning of a major German offensive on the Western Front.",
+        "It was a minor engagement that did not influence the outcome of the war."
+      ],
+      "answer": "It became a symbol of French resistance and highlighted the high human cost of the war.",
+      "category": "World War I German History"
+    },
+    {
+      "question": "How did the German resistance movements during World War II influence the outcome of the war?",
+      "options": [
+        "They had limited success, but some movements contributed to the Allies' intelligence efforts.",
+        "They directly led to the defeat of Nazi Germany.",
+        "They forced Germany to negotiate a peace treaty with the Allies.",
+        "They were largely ineffective in influencing the war's outcome."
+      ],
+      "answer": "They had limited success, but some movements contributed to the Allies' intelligence efforts.",
+      "category": "World War II German History"
+    },
+    {
+      "question": "What were the key political and social effects of the reunification of Germany in 1990?",
+      "options": [
+        "The dissolution of East Germany and the integration of its territory into West Germany.",
+        "The establishment of the European Union as a direct result of reunification.",
+        "A complete collapse of the German economy.",
+        "A prolonged civil war between East and West Germany."
+      ],
+      "answer": "The dissolution of East Germany and the integration of its territory into West Germany.",
+      "category": "Post-WWII German History"
+    },
+    {
+      "question": "How did the German student movement of the 1960s influence social and political change in West Germany?",
+      "options": [
+        "It led to greater political engagement and the rise of the Green Party.",
+        "It resulted in the decline of democratic freedoms in West Germany.",
+        "It led to the dissolution of the West German state.",
+        "It had little impact on the political landscape of West Germany."
+      ],
+      "answer": "It led to greater political engagement and the rise of the Green Party.",
+      "category": "Post-WWII German History"
+    }
+  ]
+}

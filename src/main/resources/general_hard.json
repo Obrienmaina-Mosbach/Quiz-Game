@@ -1,0 +1,100 @@
+{
+  "questions": [
+    {
+      "question": "What is the only country in the world to have a flag that is not rectangular or square?",
+      "options": ["Nepal", "Switzerland", "Japan", "Vatican City"],
+      "answer": "Nepal",
+      "category": "Geography"
+    },
+    {
+      "question": "Which element is named after the scientist Marie Curie?",
+      "options": ["Curium", "Einsteinium", "Rutherfordium", "Mendelevium"],
+      "answer": "Curium",
+      "category": "Science"
+    },
+    {
+      "question": "Which ancient civilization is credited with inventing the first form of writing known as cuneiform?",
+      "options": ["Phoenicians", "Sumerians", "Egyptians", "Indus Valley"],
+      "answer": "Sumerians",
+      "category": "History"
+    },
+    {
+      "question": "What is the smallest country in the world by land area?",
+      "options": ["Monaco", "Vatican City", "San Marino", "Liechtenstein"],
+      "answer": "Vatican City",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the name of the first artificial satellite launched into space?",
+      "options": ["Apollo 11", "Sputnik 1", "Explorer 1", "Hubble Space Telescope"],
+      "answer": "Sputnik 1",
+      "category": "Science"
+    },
+    {
+      "question": "Which famous physicist developed the concept of quantum mechanics?",
+      "options": ["Werner Heisenberg", "Max Planck", "Albert Einstein", "Niels Bohr"],
+      "answer": "Max Planck",
+      "category": "Science"
+    },
+    {
+      "question": "Who was the first woman to fly solo across the Atlantic Ocean?",
+      "options": ["Amelia Earhart", "Valentina Tereshkova", "Harriet Quimby", "Bessie Coleman"],
+      "answer": "Amelia Earhart",
+      "category": "History"
+    },
+    {
+      "question": "Which language has the most native speakers in the world?",
+      "options": ["Spanish", "Mandarin Chinese", "Hindi", "English"],
+      "answer": "Mandarin Chinese",
+      "category": "Language"
+    },
+    {
+      "question": "Who was the last monarch of the Romanov dynasty in Russia?",
+      "options": ["Tsar Nicholas II", "Tsar Peter II", "Tsar Alexander II", "Tsarina Anastasia"],
+      "answer": "Tsar Nicholas II",
+      "category": "History"
+    },
+    {
+      "question": "What is the term used for the fear of long words, which is ironic in itself?",
+      "options": ["Tachophobia", "Hippopotomonstrosesquipedaliophobia", "Pneumonoultramicroscopicsilicovolcanoconiosis", "Trypanophobia"],
+      "answer": "Hippopotomonstrosesquipedaliophobia",
+      "category": "Miscellaneous"
+    },
+    {
+      "question": "Which famous explorer is credited with being the first to circumnavigate the globe?",
+      "options": ["Ferdinand Magellan", "James Cook", "Marco Polo", "Christopher Columbus"],
+      "answer": "Ferdinand Magellan",
+      "category": "History"
+    },
+    {
+      "question": "Which modern country was formerly known as Persia?",
+      "options": ["Iraq", "Iran", "Afghanistan", "Turkey"],
+      "answer": "Iran",
+      "category": "Geography"
+    },
+    {
+      "question": "What is the longest-running television show in history?",
+      "options": ["Sesame Street", "The Simpsons", "Doctor Who", "The Tonight Show"],
+      "answer": "The Simpsons",
+      "category": "Entertainment"
+    },
+    {
+      "question": "What was the name of the first human-made object to land on the moon?",
+      "options": ["Venera 7", "Apollo 11", "Luna 9", "Luna 2"],
+      "answer": "Luna 2",
+      "category": "Science"
+    },
+    {
+      "question": "What ancient civilization built the city of Petra, known for its rock-cut architecture?",
+      "options": ["Romans", "Egyptians", "Nabateans", "Mayans"],
+      "answer": "Nabateans",
+      "category": "History"
+    },
+    {
+      "question": "Which country was the first to grant women the right to vote?",
+      "options": ["Sweden", "New Zealand", "Finland", "Australia"],
+      "answer": "New Zealand",
+      "category": "History"
+    }
+  ]
+}

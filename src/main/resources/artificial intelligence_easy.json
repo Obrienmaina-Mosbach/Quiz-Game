@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What does AI stand for?",
+      "options": ["Automated Information", "Artificial Intelligence", "Advanced Integration", "Algorithmic Innovation"],
+      "answer": "Artificial Intelligence"
+    },
+    {
+      "question": "Which company created ChatGPT?",
+      "options": ["Google", "Microsoft", "OpenAI", "Amazon"],
+      "answer": "OpenAI"
+    },
+    {
+      "question": "Which of the following is an example of AI?",
+      "options": ["Google Assistant", "Microsoft Word", "Notepad", "Calculator"],
+      "answer": "Google Assistant"
+    },
+    {
+      "question": "Which branch of AI focuses on teaching computers to recognize patterns in data?",
+      "options": ["Machine Learning", "Robotics", "Neural Networks", "Data Science"],
+      "answer": "Machine Learning"
+    },
+    {
+      "question": "What is the purpose of a chatbot?",
+      "options": ["To play video games", "To answer questions and assist users", "To create music", "To write books"],
+      "answer": "To answer questions and assist users"
+    },
+    {
+      "question": "Which of the following is NOT an AI application?",
+      "options": ["Face recognition", "Self-driving cars", "Social media scrolling", "Typing on a keyboard"],
+      "answer": "Typing on a keyboard"
+    },
+    {
+      "question": "Which AI technology allows computers to understand and process human language?",
+      "options": ["Computer Vision", "Machine Learning", "Natural Language Processing", "Deep Learning"],
+      "answer": "Natural Language Processing"
+    },
+    {
+      "question": "What is the goal of AI?",
+      "options": ["To replace all humans", "To make computers smarter", "To create intelligent systems that can perform tasks", "To build supercomputers"],
+      "answer": "To create intelligent systems that can perform tasks"
+    },
+    {
+      "question": "Which of these AI tools is used for generating images?",
+      "options": ["ChatGPT", "DALL·E", "Siri", "Google Maps"],
+      "answer": "DALL·E"
+    },
+    {
+      "question": "What does 'Deep Learning' refer to?",
+      "options": ["A type of AI that mimics human brain functions", "A new internet browser", "A programming language", "A form of gaming AI"],
+      "answer": "A type of AI that mimics human brain functions"
+    }
+  ]
+}

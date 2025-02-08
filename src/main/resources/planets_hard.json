@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which planet has the highest average surface temperature in the Solar System?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Venus"
+    },
+    {
+      "question": "What is the name of the largest known volcano in the Solar System, located on Mars?",
+      "options": ["Mauna Loa", "Olympus Mons", "Valles Marineris", "Tharsis Montes"],
+      "answer": "Olympus Mons"
+    },
+    {
+      "question": "Which planet has a hexagonal storm at its north pole?",
+      "options": ["Jupiter", "Neptune", "Saturn", "Uranus"],
+      "answer": "Saturn"
+    },
+    {
+      "question": "Which exoplanet detection method relies on measuring the dimming of a star as a planet passes in front of it?",
+      "options": ["Radial velocity method", "Transit method", "Direct imaging", "Gravitational microlensing"],
+      "answer": "Transit method"
+    },
+    {
+      "question": "Which planet has the fastest wind speeds recorded in the Solar System, reaching up to 2,100 km/h?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "answer": "Neptune"
+    },
+    {
+      "question": "Which planet’s moon, Triton, orbits in the opposite direction of the planet’s rotation?",
+      "options": ["Mars", "Saturn", "Neptune", "Uranus"],
+      "answer": "Neptune"
+    },
+    {
+      "question": "Which planet has a day that is longer than its year?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "answer": "Venus"
+    },
+    {
+      "question": "Which planet is known for having the largest canyon system in the Solar System, Valles Marineris?",
+      "options": ["Mercury", "Venus", "Mars", "Earth"],
+      "answer": "Mars"
+    },
+    {
+      "question": "What is the primary component of Uranus' and Neptune’s atmospheres, giving them their blue color?",
+      "options": ["Methane", "Oxygen", "Hydrogen", "Carbon Dioxide"],
+      "answer": "Methane"
+    },
+    {
+      "question": "Which planet has the most moons in the Solar System, as of current discoveries?",
+      "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+      "answer": "Saturn"
+    }
+  ]
+}

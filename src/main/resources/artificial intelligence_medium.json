@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is a type of unsupervised learning?",
+      "options": [
+        "Linear Regression",
+        "K-means Clustering",
+        "Support Vector Machines",
+        "Logistic Regression"
+      ],
+      "answer": "K-means Clustering",
+      "category": "Machine Learning"
+    },
+    {
+      "question": "In the context of decision trees, what does the term 'Gini Impurity' measure?",
+      "options": [
+        "The probability of a sample being incorrectly classified",
+        "The depth of the decision tree",
+        "The number of decision nodes in the tree",
+        "The variance of the data in the decision tree"
+      ],
+      "answer": "The probability of a sample being incorrectly classified",
+      "category": "Machine Learning"
+    },
+    {
+      "question": "What is the primary advantage of using a Convolutional Neural Network (CNN) for image classification tasks?",
+      "options": [
+        "CNNs automatically extract features from images without requiring manual feature engineering",
+        "CNNs are faster than fully connected networks",
+        "CNNs work better with small datasets compared to other networks",
+        "CNNs can handle time-series data more effectively than Recurrent Neural Networks"
+      ],
+      "answer": "CNNs automatically extract features from images without requiring manual feature engineering",
+      "category": "Deep Learning"
+    },
+    {
+      "question": "Which of the following best describes 'reinforcement learning'?",
+      "options": [
+        "A method for supervised learning where the model is trained using labeled data",
+        "A learning method where an agent interacts with an environment to maximize a reward signal",
+        "A technique for clustering data into distinct groups based on similarity",
+        "A process of generating new data points based on existing data"
+      ],
+      "answer": "A learning method where an agent interacts with an environment to maximize a reward signal",
+      "category": "Reinforcement Learning"
+    },
+    {
+      "question": "In a neural network, what does an activation function do?",
+      "options": [
+        "It normalizes the input data before feeding it into the network",
+        "It determines the output of a neuron by transforming the input",
+        "It calculates the loss function during training",
+        "It adjusts the weights of the network during backpropagation"
+      ],
+      "answer": "It determines the output of a neuron by transforming the input",
+      "category": "Neural Networks"
+    },
+    {
+      "question": "Which of the following statements about overfitting in machine learning is correct?",
+      "options": [
+        "Overfitting occurs when the model generalizes well to new, unseen data",
+        "Overfitting is more likely to occur when the model is too simple for the dataset",
+        "Overfitting occurs when the model learns too much from the training data, capturing noise and irrelevant details",
+        "Overfitting can be prevented by using a smaller training dataset"
+      ],
+      "answer": "Overfitting occurs when the model learns too much from the training data, capturing noise and irrelevant details",
+      "category": "Machine Learning"
+    },
+    {
+      "question": "What is the purpose of the 'softmax' function in a neural network?",
+      "options": [
+        "To introduce non-linearity into the network",
+        "To compute the loss function during training",
+        "To normalize the outputs of the network into a probability distribution",
+        "To reduce the dimensionality of the input data"
+      ],
+      "answer": "To normalize the outputs of the network into a probability distribution",
+      "category": "Neural Networks"
+    },
+    {
+      "question": "Which of the following is a common application of Natural Language Processing (NLP)?",
+      "options": [
+        "Image recognition",
+        "Speech recognition",
+        "Stock market prediction",
+        "Clustering users based on behavior"
+      ],
+      "answer": "Speech recognition",
+      "category": "Natural Language Processing"
+    },
+    {
+      "question": "In the context of the k-nearest neighbors (KNN) algorithm, what is the 'distance metric' used for?",
+      "options": [
+        "To find the optimal number of neighbors to use",
+        "To measure how similar or different a point is to its neighbors",
+        "To initialize the k-values",
+        "To compute the weight of each neighbor"
+      ],
+      "answer": "To measure how similar or different a point is to its neighbors",
+      "category": "Machine Learning"
+    },
+    {
+      "question": "Which of the following is a challenge when using deep learning models for training on large datasets?",
+      "options": [
+        "Deep learning models require small datasets for effective learning",
+        "Training deep learning models can be computationally expensive and time-consuming",
+        "Deep learning models can only be trained on text data",
+        "Deep learning models perform poorly on high-dimensional data"
+      ],
+      "answer": "Training deep learning models can be computationally expensive and time-consuming",
+      "category": "Deep Learning"
+    }
+  ]
+}
