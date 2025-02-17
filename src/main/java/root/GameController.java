@@ -13,6 +13,7 @@ public class GameController {
     private Timer timer;
     private int timeLimit;
     private ScoreTracker scoreTracker;
+    private ScoreBoard scoreBoard;
     private List<String> correctResponses = Arrays.asList(
         "Correct! Well done.",
         "Nice job! That's right.",
@@ -22,13 +23,16 @@ public class GameController {
     );
     private int responseIndex = 0;
     private boolean timerExpired;
+    private String playerName;
 
-    public GameController(String topic, String difficulty) {
+    public GameController(String playerName, String topic, String difficulty) {
+        this.playerName = playerName;
         QuestionBank questionBank = new QuestionBank(topic, difficulty);
         this.questions = questionBank.getQuestions();
         this.currentQuestionIndex = 0;
         this.scanner = new Scanner(System.in);
         this.scoreTracker = new ScoreTracker();
+        this.scoreBoard = new ScoreBoard();
         setTimeLimit(difficulty);
     }
 
@@ -69,6 +73,8 @@ public class GameController {
             timerExpired = false;
         }
         System.out.println("Quiz finished! Your score is: " + scoreTracker.getScore());
+        scoreBoard.updateScore(playerName, scoreTracker.getScore());
+        displayFinalScores();
     }
 
     private void displayQuestion(Question question) {
@@ -117,5 +123,10 @@ public class GameController {
         } catch (NumberFormatException e) {
             System.out.println("Invalid input. Please enter a number corresponding to your answer.");
         }
+    }
+
+    private void displayFinalScores() {
+        System.out.println("Final Score for " + playerName + ": " + scoreTracker.getScore());
+        System.out.println("Highest Score: " + scoreBoard.getHighestScore());
     }
 }
