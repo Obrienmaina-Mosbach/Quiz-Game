@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "Which animal is known as the 'King of the Jungle'?",
+      "options": ["Tiger", "Elephant", "Lion", "Cheetah"],
+      "answer": "Lion"
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "options": ["Cheetah", "Leopard", "Horse", "Kangaroo"],
+      "answer": "Cheetah"
+    },
+    {
+      "question": "Which animal is famous for its black and white stripes?",
+      "options": ["Tiger", "Zebra", "Panda", "Skunk"],
+      "answer": "Zebra"
+    },
+    {
+      "question": "Which bird is known for its ability to mimic human speech?",
+      "options": ["Sparrow", "Eagle", "Parrot", "Owl"],
+      "answer": "Parrot"
+    },
+    {
+      "question": "What do pandas mainly eat?",
+      "options": ["Grass", "Bamboo", "Fruits", "Fish"],
+      "answer": "Bamboo"
+    },
+    {
+      "question": "Which sea creature has eight tentacles?",
+      "options": ["Octopus", "Jellyfish", "Squid", "Starfish"],
+      "answer": "Octopus"
+    },
+    {
+      "question": "Which animal is known for being the largest mammal?",
+      "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+      "answer": "Blue Whale"
+    },
+    {
+      "question": "Which animal is commonly known as 'man's best friend'?",
+      "options": ["Cat", "Horse", "Dog", "Rabbit"],
+      "answer": "Dog"
+    },
+    {
+      "question": "What is the only mammal capable of true flight?",
+      "options": ["Eagle", "Bat", "Flying Squirrel", "Owl"],
+      "answer": "Bat"
+    },
+    {
+      "question": "What do bees produce?",
+      "options": ["Milk", "Honey", "Sugar", "Nectar"],
+      "answer": "Honey"
+    }
+  ]
+}
