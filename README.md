@@ -1,5 +1,7 @@
 # Quiz Game
 
+![Quiz Game](src/assets/Images/Game.png)
+
 ## Description
 This is a Java-based quiz game where players can choose a topic and difficulty level, answer multiple-choice questions, and track their scores. The game includes a timer for each question and supports skipping or revisiting questions. Scores are saved and displayed on a leaderboard.
 
@@ -25,7 +27,7 @@ root/
 ## Installation & Setup
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/quiz-game.git
+   git clone https://github.com/Obrienmaina-Mosbach/Quiz-Game
    ```
 2. Open the project in an IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
 3. Ensure you have Java installed (JDK 11 or higher).
